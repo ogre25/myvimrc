@@ -15,3 +15,7 @@ a simple vimrc
 1、F3 mirror/toggle nerdtree
 2、F5 one key run bash/python3 code
 ```
+# Install
+```Shell session
+run "sh vimsetup.sh"
+```
