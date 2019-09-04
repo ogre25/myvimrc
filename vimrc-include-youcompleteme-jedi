@@ -237,8 +237,7 @@ let g:ycm_python_binary_path="/usr/bin/python3"
 " => Jedi-VIM
 """"""""""""""""""""""""""""""
 let g:jedi#completions_enable=0
-"autocmd FileType python set omnifunc=python3complete#Complete 
-autocmd FileType python set omnifunc=jedi#completions
+autocmd FileType python set omnifunc=jedi#Completinos
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
