@@ -9,6 +9,8 @@ a simple vimrc
 ```Shell session
 1、nerdtree
 2、auto-pairs
+3、youcomplete(vimrc-include-youcomplete)
+4、jedi-vim(vimrc-include-youcomplete-jedi)
 ```
 # Hotkey
 ```Shell session
