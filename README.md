@@ -19,5 +19,7 @@ a simple vimrc
 ```
 # Install
 ```Shell session
-run "sh vimsetup.sh"
+run "curl -O https://raw.githubusercontent.com/ogre25/myvimrc/master/vimsetup.sh | sh"
+run "curl -O https://raw.githubusercontent.com/ogre25/myvimrc/master/vimsetup-include-youcomplete.sh | sh"
+run "curl -O https://raw.githubusercontent.com/ogre25/myvimrc/master/vimsetup-include-youcomplete-jedi.sh | sh"
 ```
