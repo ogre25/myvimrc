@@ -4,4 +4,4 @@ vun=$(git clone https://github.com/VundleVim/Vundle.vim.git $ho/Vundle.vim && cp
 if [ ! -e $ho ];then
     mkdir $ho
 fi
-$vun
+eval $vun

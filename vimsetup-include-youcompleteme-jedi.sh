@@ -5,5 +5,5 @@ you=$(git clone https://github.com/ycm-core/YouCompleteMe.git $ho/YouCompleteMe 
 if [ ! -e $ho ];then
     mkdir $ho
 fi
-$vun
-$you
+eval $vun
+eval $you
