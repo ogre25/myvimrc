@@ -195,7 +195,6 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree.git'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'ycm-core/YouCompleteMe'
-Plugin 'davidhalter/jedi-vim'
 call vundle#end()
 
 "NERDtree
