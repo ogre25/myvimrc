@@ -11,6 +11,7 @@ a simple vimrc
 2、auto-pairs
 3、youcomplete(vimrc-include-youcomplete)
 4、jedi-vim(vimrc-include-youcomplete-jedi)
+5、phpcomplete(vimrc-include-youcomplete-jedi-phpcomplete)
 ```
 # Hotkey
 ```Shell session
@@ -31,4 +32,8 @@ run "chmod +x vimsetup-include-youcomplete.sh;./vimsetup-include-youcomplete.sh"
 or
 
 run "chmod +x vimsetup-include-youcompleteme-jedi.sh;./vimsetup-include-youcompleteme-jedi.sh"
+
+or
+
+run "chmod +x vimsetup-include-youcompleteme-jedi-phpcomplete.sh;./vimsetup-include-youcompleteme-jedi-phpcomplete.sh"
 ```
