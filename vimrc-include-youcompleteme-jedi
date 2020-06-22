@@ -212,7 +212,7 @@ map <F5> :call RunCompile()<cr>
     func! RunCompile()
         exec "w"
 if &filetype == 'sh'
-            exec "!time bash %"
+            exec "!time bash -x %"
 elseif &filetype == 'python'
             exec "!time python3 %"
 endif
