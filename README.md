@@ -23,6 +23,6 @@ a simple vimrc
 
 git clone https://github.com/ogre25/myvimrc.git 
 
-run "chmod +x viminstall.sh;./vimsetup.sh" 
+run "chmod +x viminstall.sh;./viminstall.sh" 
 
 ```
